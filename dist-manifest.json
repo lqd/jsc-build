@@ -1,0 +1,21 @@
+{
+  "artifacts": {
+    "jsc-x86_64-unknown-linux-gnu.tar.gz": {
+      "target_triples": [
+        "x86_64-unknown-linux-gnu"
+      ],
+      "assets": [
+        {
+          "name": "bin/jsc",
+          "path": "bin/jsc",
+          "kind": "executable"
+        },
+        {
+          "name": "lib/libJavaScriptCore.a",
+          "path": "lib/libJavaScriptCore.a",
+          "kind": "c_static_library"
+        }
+      ]
+    }
+  }
+}
