@@ -6,12 +6,12 @@
       ],
       "assets": [
         {
-          "name": "bin/jsc",
+          "name": "jsc",
           "path": "bin/jsc",
           "kind": "executable"
         },
         {
-          "name": "lib/libJavaScriptCore.a",
+          "name": "libJavaScriptCore.a",
           "path": "lib/libJavaScriptCore.a",
           "kind": "c_static_library"
         }
